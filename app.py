@@ -41,7 +41,7 @@ app.config['MAIL_USE_TLS'] = False
 app.config['MAIL_USE_SSL'] = True
 
     # gmail authentication
-app.config['MAIL_USERNAME'] = "uofrsasesecertsanta"
+app.config['MAIL_USERNAME'] = "uofrsasesecertsanta@gmail.com"
 app.config['MAIL_PASSWORD'] =  "fsoazdyrdmjvvill"
 
     # mail accounts
