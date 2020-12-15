@@ -42,7 +42,7 @@ app.config['MAIL_USE_SSL'] = True
 
     # gmail authentication
 app.config['MAIL_USERNAME'] = "uofrsasesecertsanta"
-app.config['MAIL_PASSWORD'] =  "210flask"
+app.config['MAIL_PASSWORD'] =  "fsoazdyrdmjvvill"
 
     # mail accounts
 app.config['MAIL_DEFAULT_SENDER'] = "uofrsasesecertsanta@gmail.com"
